@@ -54,4 +54,14 @@ The goal of this project is to:
 ### **2. Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Clustering-Telecommunication-Customer-KMeans.git
+   git clone https://github.com/shuhratkulboboev/Clustering-telecommunication-company-customer-using-K_means-algorithm.git
+2. Navigate to the repository:
+   ```bash
+   cd Clustering-Telecommunication-Customer-KMeans
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the Jupyter notebook:
+   ```bash
+   jupyter notebook notebook/clustering_kmeans.ipynb
+
